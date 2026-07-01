@@ -1,0 +1,26 @@
+{
+  "name": "mrlogo-ai-ai-logo-maker",
+  "version": "1.0.0",
+  "description": "AI Logo Maker designs professional logos for your brand in seconds with AI",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "ai-logo-maker",
+    "logo-maker",
+    "ai",
+    "logo-design",
+    "branding",
+    "design",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "MrLogo",
+  "license": "ISC",
+  "homepage": "https://mrlogo.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrlogo-ai/ai-logo-maker.git"
+  }
+}
